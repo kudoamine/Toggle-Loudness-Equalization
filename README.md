@@ -2,6 +2,9 @@
 Toggle Loudness Equalization on Windows every time you open the software!
 (Only tested on Win 10)
 
+### Download: 
+https://github.com/KudoAmine/Toggle-Loudness-Equalization/releases/tag/stable
+
 ### Requirements: 
 .NET Desktop Runtime 7 : https://dotnet.microsoft.com/en-us/download/dotnet/7.0
 

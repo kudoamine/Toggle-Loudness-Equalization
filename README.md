@@ -2,7 +2,7 @@
 Toggle Loudness Equalization on Windows every time you open the software!
 (Only tested on Win 10)
 
-A .NET software using Core Audio API
+A VB .NET software using Core Audio API
 
 ### Download: 
 https://github.com/KudoAmine/Toggle-Loudness-Equalization/releases/tag/stable

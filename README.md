@@ -11,6 +11,7 @@ https://github.com/KudoAmine/Toggle-Loudness-Equalization/releases/tag/stable
 .NET Desktop Runtime 7 : https://dotnet.microsoft.com/en-us/download/dotnet/7.0
 
 ### Usage: 
+- Before using the software, you have to turn the Loudness Equalization once for the correct audio device from the Sound Control panel.
 - Open the software the first time to select the right audio device and set the settings.
 - Open the software after to toggle the Loudness Equalization
 

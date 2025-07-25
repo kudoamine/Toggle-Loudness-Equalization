@@ -1,6 +1,6 @@
 # Toggle Loudness Equalization
 Toggle Loudness Equalization on Windows every time you open the software!
-(Only tested on Win 10)
+(Tested on Win 10 and Win 11)
 
 A VB .NET software using Core Audio API
 
